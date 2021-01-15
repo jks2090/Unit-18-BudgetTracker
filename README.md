@@ -18,11 +18,11 @@ Using DB, Manifest, and Service-worker, we are able to store data and test to se
 
 ### -Using Online
 
-![Online Demonstration](demonstrations\online.gif)
+![Online Demonstration](online.gif)
 
 ### -Using Offline
 
-![Offline/Demonstration](demonstrations\offline.gif)
+![Offline/Demonstration](offline.gif)
 
 ## Technologies Used:
 
