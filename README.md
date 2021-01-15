@@ -34,3 +34,4 @@ Manifest, DB, and Service-Worker for allowing seamless offline/online use
 
 ## Deployed Heroku link:
 
+https://calm-cliffs-61785.herokuapp.com/
